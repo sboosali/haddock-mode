@@ -1,6 +1,9 @@
+mode
+
+
 ;;; haddock-mode.el --- Major mode for Haddock docstrings -*- lexical-binding: t; -*-
 
-;;----------------------------------------------;;
+;;==============================================;;
 
 ;; Copyright (C) 2019- Sam Boosalis and haddock-mode
 ;; Copyright (C) 2007-2017 Jason R. Blevins and markdown-mode
@@ -30,13 +33,13 @@
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-;;----------------------------------------------;;
+;;==============================================;;
 
 ;;; Commentary:
 
-;; 
+;;
 
-;;----------------------------------------------;;
+;;==============================================;;
 
 
 ;;; Code:
